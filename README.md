@@ -15,6 +15,8 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="coding gif" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=22D3EE&center=false&vCenter=true&width=460&lines=const+developer+%3D+%7B;+++name%3A+%27Ahmad+Ilyas+Mutaal%27%2C;+++role%3A+%27Full+Stack+Developer%27%2C;+++stack%3A+%5B%27React%27%2C+%27Node.js%27%2C+%27Laravel%27%5D%2C;+++currentlyLearning%3A+%27AI+Integration%27;%7D%3B" alt="about me typing" />
+
 * 🔭 Currently working on **Full Stack Web Applications**
 * 🌱 Learning **AI Integration, System Architecture, and Cloud Technologies**
 * 💡 Interested in **Artificial Intelligence, Backend Development, and Modern Web Technologies**
@@ -122,6 +124,22 @@ Features:
 <div align="center">
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=AHMADILYAS12&theme=tokyo-night)
+
+</div>
+
+---
+
+## 👾 Pac-Man Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-pacman-contribution-graph.vercel.app/api?username=AHMADILYAS12&theme=classic&size=17&color_snake=DDD8D8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-pacman-contribution-graph.vercel.app/api?username=AHMADILYAS12&theme=classic&size=17" />
+  <img alt="pacman contribution graph" src="https://github-readme-pacman-contribution-graph.vercel.app/api?username=AHMADILYAS12&theme=classic&size=17" />
+</picture>
+
+<sub>👻 Pac-Man memakan kotak kontribusi saya setiap hari!</sub>
 
 </div>
 

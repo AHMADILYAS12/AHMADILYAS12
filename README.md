@@ -1,10 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,30:203a43,70:2c5364,100:00c6ff&text=Restu%20Singgit%20Pasaribu&fontSize=48&fontAlignY=36&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=🚀+Full+Stack+JavaScript+Developer;⚡+React+%7C+Node.js+%7C+Express+%7C+Laravel;🤖+AI+Integration+Enthusiast;🌐+Always+Building+Awesome+Things;💙+Welcome+To+My+GitHub!" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020024,20:090979,60:00d4ff,100:00f5ff&text=Restu%20Singgit%20Pasaribu&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-<br>
+</p>
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=700&color=00F5FF&center=true&vCenter=true&repeat=true&width=900&lines=⚡+Full+Stack+JavaScript+Developer;🚀+React+%7C+Node.js+%7C+Express;🤖+Artificial+Intelligence;💻+Open+Source+Enthusiast;🌌+Welcome+To+My+GitHub"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=restuusgh&style=for-the-badge&color=00F5FF"/>
 
@@ -12,6 +19,12 @@
 
 <img src="https://img.shields.io/github/stars/restuusgh?style=for-the-badge&color=00F5FF"/>
 
+</p>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000428,100:004e92&height=160&section=header&text=⚡%20BUILDING%20THE%20FUTURE%20WITH%20CODE&fontSize=35&fontColor=00F5FF&animation=fadeIn"/>
+
+</p>
 </div>
 
 

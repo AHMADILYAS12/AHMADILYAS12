@@ -13,16 +13,11 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=restuusgh&style=for-the-badge&color=00F5FF"/>
+<img src="https://komarev.com/ghpvc/?username=rAHMADILYAS12&style=for-the-badge&color=00F5FF"/>
 
-<img src="https://img.shields.io/github/followers/restuusgh?style=for-the-badge&color=00F5FF"/>
+<img src="https://img.shields.io/github/followers/AHMADILYAS12?style=for-the-badge&color=00F5FF"/>
 
-<img src="https://img.shields.io/github/stars/restuusgh?style=for-the-badge&color=00F5FF"/>
-
-</p>
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000428,100:004e92&height=160&section=header&text=⚡%20BUILDING%20THE%20FUTURE%20WITH%20CODE&fontSize=35&fontColor=00F5FF&animation=fadeIn"/>
+<img src="https://img.shields.io/github/stars/AHMADILYAS12?style=for-the-badge&color=00F5FF"/>
 
 </p>
 </div>

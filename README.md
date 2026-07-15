@@ -1,27 +1,4 @@
-<div align="center">
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020024,20:090979,60:00d4ff,100:00f5ff&text=Restu%20Singgit%20Pasaribu&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
-
-</p>
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=700&color=00F5FF&center=true&vCenter=true&repeat=true&width=900&lines=⚡+Full+Stack+JavaScript+Developer;🚀+React+%7C+Node.js+%7C+Express;🤖+Artificial+Intelligence;💻+Open+Source+Enthusiast;🌌+Welcome+To+My+GitHub"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=rAHMADILYAS12&style=for-the-badge&color=00F5FF"/>
-
-<img src="https://img.shields.io/github/followers/AHMADILYAS12?style=for-the-badge&color=00F5FF"/>
-
-<img src="https://img.shields.io/github/stars/AHMADILYAS12?style=for-the-badge&color=00F5FF"/>
-
-</p>
-</div>
-
+<div align="center"> <!-- HEADER ANIMASI CUBIC (LEBIH KEREN & DINAMIS) --> <img src="https://capsule-render.vercel.app/api?type=cubic&color=oceanic&height=220&section=header&text=Hi%20There,%20I'm%20Ahmad%20Ilyas%20Mutaal%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /> <!-- TYPING ANIMATION UTAMA (WARNA LEBIH MENYALA) --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+JavaScript+Developer;React+%7C+Node.js+%7C+Express;Laravel+Developer;AI+Integration+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /> <!-- BADGES VISITOR & FOLLOWERS --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=AHMADILYAS12&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="profile views" /> <img src="https://img.shields.io/github/followers/AHMADILYAS12?label=Followers&style=for-the-badge&color=3B82F6" alt="followers" /> </p> </div>
 
 ## 🚀 About Me
 

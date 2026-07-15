@@ -112,8 +112,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AHMADILYAS12/AHMADILYAS12/output/github-contribution-grid-snake.svg" alt="snake animation" />
   <br/>
-  <sub>⚙️ *Diperbarui otomatis via GitHub Actions setiap hari.*</sub>
-</div>
+ 
 ---
 
 ## 🌐 Connect With Me

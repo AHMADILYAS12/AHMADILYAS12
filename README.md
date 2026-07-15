@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- HEADER ANIMASI WAVING GRADIENT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Ahmad%20Ilyas%20Mutaal%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<!-- HEADER ANIMASI CUBIC (LEBIH KEREN & DINAMIS) -->
+<img src="https://capsule-render.vercel.app/api?type=cubic&color=oceanic&height=220&section=header&text=Hi%20There,%20I'm%20Ahmad%20Ilyas%20Mutaal%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<!-- TYPING ANIMATION UTAMA -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+JavaScript+Developer;React+%7C+Node.js+%7C+Express;Laravel+Developer;AI+Integration+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<!-- TYPING ANIMATION UTAMA (WARNA LEBIH MENYALA) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+JavaScript+Developer;React+%7C+Node.js+%7C+Express;Laravel+Developer;AI+Integration+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 
 <!-- BADGES VISITOR & FOLLOWERS -->
 <p align="center">
@@ -120,6 +120,24 @@
   <sub>⚙️ *Diperbarui otomatis via GitHub Actions setiap hari.*</sub>
 </div>
 
+### 🧩 Mini Games: Tebak Bahasa Pemrograman Favorit
+<details>
+<summary><b>👉 KLIK DI SINI UNTUK MAIN GAME!</b></summary>
+<br>
+
+**Petunjuk:**
+1. Dimulai dengan huruf **J**
+2. Sering dipakai untuk Frontend dan Backend sekaligus
+3. Bukan Java 😜
+
+<details>
+<summary><b>💡 Lihat Jawaban</b></summary>
+<br>
+
+**JavaScript!** 🎉 Tepat seperti yang tertulis di tech stack utama saya di atas!
+</details>
+</details>
+
 ---
 
 ## 🌐 Connect With Me
@@ -130,10 +148,10 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://linkedin.com/in/GANTI_DENGAN_LINKEDIN_KAMU" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:ahmadilyasm12@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:email_kamu@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -145,7 +163,8 @@
 ### 💬 Favorite Quote
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<!-- FOOTER ANIMASI CUBIC (PENUTUP FUTURISTIK) -->
+<img src="https://capsule-render.vercel.app/api?type=cubic&color=teal&height=120&section=footer" width="100%" />
 
 ⭐ **Thanks for visiting my profile! Don't forget to follow!**
 

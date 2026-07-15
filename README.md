@@ -102,16 +102,13 @@
 
 ## 🎮 Interactive & Animations Zone
 
-### 👾 Pac-Man Contribution Graph
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-pacman-contribution-graph.vercel.app/api?username=AHMADILYAS12&theme=classic&size=17&color_snake=DDD8D8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-pacman-contribution-graph.vercel.app/api?username=AHMADILYAS12&theme=classic&size=17" />
-  <img alt="pacman contribution graph" src="https://github-readme-pacman-contribution-graph.vercel.app/api?username=AHMADILYAS12&theme=classic&size=17" />
-</picture>
+### 🎮 Play Game With Me
 
-<sub>👻 *Pac-Man memakan kotak kontribusi saya setiap hari!*</sub>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raflyadi1125/raflyadi1125/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raflyadi1125/raflyadi1125/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raflyadi1125/raflyadi1125/output/pacman-contribution-graph.svg">
+</picture>
 
 ### 🐍 Contribution Snake Game
 <div align="center">

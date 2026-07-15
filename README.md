@@ -102,8 +102,6 @@
 
 ## 🎮 Interactive & Animations Zone
 
-### 🎮 Play Game With Me
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raflyadi1125/raflyadi1125/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raflyadi1125/raflyadi1125/output/pacman-contribution-graph.svg">
@@ -116,24 +114,6 @@
   <br/>
   <sub>⚙️ *Diperbarui otomatis via GitHub Actions setiap hari.*</sub>
 </div>
-
-### 🧩 Mini Games: Tebak Bahasa Pemrograman Favorit
-<details>
-<summary><b>👉 KLIK DI SINI UNTUK MAIN GAME!</b></summary>
-<br>
-
-**Petunjuk:**
-1. Dimulai dengan huruf **J**
-2. Sering dipakai untuk Frontend dan Backend sekaligus
-3. Bukan Java 😜
-
-<details>
-<summary><b>💡 Lihat Jawaban</b></summary>
-<br>
-
-**JavaScript!** 🎉 Tepat seperti yang tertulis di tech stack utama saya di atas!
-</details>
-</details>
 
 ---
 

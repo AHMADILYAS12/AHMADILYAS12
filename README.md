@@ -1,11 +1,16 @@
 <div align="center">
 
+<!-- HEADER ANIMASI WAVING GRADIENT -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Ahmad%20Ilyas%20Mutaal%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+JavaScript+Developer;React+%7C+Node.js+%7C+Express;Laravel+Developer;AI+Integration+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<!-- TYPING ANIMATION UTAMA -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+JavaScript+Developer;React+%7C+Node.js+%7C+Express;Laravel+Developer;AI+Integration+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=AHMADILYAS12&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/AHMADILYAS12?label=Followers&style=for-the-badge&color=3B82F6" alt="followers" />
+<!-- BADGES VISITOR & FOLLOWERS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AHMADILYAS12&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/AHMADILYAS12?label=Followers&style=for-the-badge&color=3B82F6" alt="followers" />
+</p>
 
 </div>
 
@@ -13,9 +18,12 @@
 
 ## 🚀 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="coding gif" />
+<p align="left">
+<!-- ANIMASI CODING KANAN -->
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B4cnE1dXF5c3Z4czB5N212cHd4am1tc29tcTY4enBvMTV5cXJ4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZvikpQOf9mWdL89mjZ/giphy.gif" alt="coding animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=22D3EE&center=false&vCenter=true&width=460&lines=const+developer+%3D+%7B;+++name%3A+%27Ahmad+Ilyas+Mutaal%27%2C;+++role%3A+%27Full+Stack+Developer%27%2C;+++stack%3A+%5B%27React%27%2C+%27Node.js%27%2C+%27Laravel%27%5D%2C;+++currentlyLearning%3A+%27AI+Integration%27;%7D%3B" alt="about me typing" />
+<!-- BLOK KODE TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=800&color=22D3EE&center=false&vCenter=true&width=460&lines=const+developer+%3D+%7B;+++name%3A+%27Ahmad+Ilyas+Mutaal%27%2C;+++role%3A+%27Full+Stack+Developer%27%2C;+++stack%3A+%5B%27React%27%2C+%27Node.js%27%2C+%27Laravel%27%5D%2C;+++currentlyLearning%3A+%27AI+Integration%27;%7D%3B" alt="about me typing" />
 
 * 🔭 Currently working on **Full Stack Web Applications**
 * 🌱 Learning **AI Integration, System Architecture, and Cloud Technologies**
@@ -24,6 +32,7 @@
 * 🎯 Goal: Become a Software Engineer who builds impactful products
 * 💬 Ask me about **React, Node.js, Laravel, REST API**
 * 😄 Fun fact: I debug better with coffee ☕
+</p>
 
 <br clear="both">
 
@@ -31,150 +40,85 @@
 
 ## 🛠 Tech Stack
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,js" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,js" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma,supabase" /> |
+| **Tools & Devops** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm,docker" /> |
+| **Exploring** | <img src="https://skillicons.dev/icons?i=tensorflow,linux" /> |
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma,supabase" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm,docker" />
-</p>
-
-### Currently Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,linux" />
-</p>
-
-AI • Ollama • LLM Integration • REST API • JWT Authentication
+> **Specialties & Focus:** AI • Ollama • LLM Integration • REST API • JWT Authentication
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🌴 Palm Oil Distribution Information System
-A web-based information system built with Full Stack JavaScript featuring:
-* Dashboard Monitoring
-* Distribution Management
-* Stock Prediction using AI
-* Activity Logging
-* Authentication & Authorization
-* REST API
-* Responsive UI
-
-**Tech:** `React` `Node.js` `Express` `Prisma` `MySQL` `JWT`
-
----
+> A web-based information system built with Full Stack JavaScript.
+* **Core Features:** Dashboard Monitoring, Distribution Management, Stock Prediction using AI, Activity Logging, and JWT Auth.
+* **Tech Stack:** `React` `Node.js` `Express` `Prisma` `MySQL` `JWT`
 
 ### 🏫 PAUD Information System
-A complete school administration system including:
-* Student Management
-* Parent Portal
-* Attendance
-* Registration
-* Payment Management
-* Admin Dashboard
-
----
+> Complete school administration system.
+* **Core Features:** Student Management, Parent Portal, Attendance Tracking, Registration, Payment Management, and Admin Dashboard.
+* **Tech Stack:** `Laravel` `MySQL` `TailwindCSS`
 
 ### 🤖 AI Chatbot Integration
-Features:
-* Ollama Integration
-* Local LLM
-* REST API
-* Intelligent Assistant
-* Knowledge-based Responses
+> Intelligent Assistant powered by local environment.
+* **Core Features:** Ollama Integration, Local LLM Implementation, Knowledge-based Responses, and REST API endpoints.
+* **Tech Stack:** `Node.js` `Ollama` `REST API`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AHMADILYAS12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AHMADILYAS12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=AHMADILYAS12&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AHMADILYAS12&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AHMADILYAS12&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
+<div align="center">
+  <img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMADILYAS12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophy
+## 🏆 GitHub Trophy & Activity
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AHMADILYAS12&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</div>
 
-![](https://github-profile-trophy.vercel.app/?username=AHMADILYAS12&theme=tokyonight&no-frame=true&row=1&column=6)
+<br/>
 
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHMADILYAS12&theme=tokyo-night&area=true" alt="Activity Graph" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🎮 Interactive & Animations Zone
 
+### 👾 Pac-Man Contribution Graph
 <div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=AHMADILYAS12&theme=tokyo-night)
-
-</div>
-
----
-
-## 👾 Pac-Man Contribution Graph
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-pacman-contribution-graph.vercel.app/api?username=AHMADILYAS12&theme=classic&size=17&color_snake=DDD8D8" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-pacman-contribution-graph.vercel.app/api?username=AHMADILYAS12&theme=classic&size=17" />
   <img alt="pacman contribution graph" src="https://github-readme-pacman-contribution-graph.vercel.app/api?username=AHMADILYAS12&theme=classic&size=17" />
 </picture>
 
-<sub>👻 Pac-Man memakan kotak kontribusi saya setiap hari!</sub>
-
+<sub>👻 *Pac-Man memakan kotak kontribusi saya setiap hari!*</sub>
 </div>
 
----
-
-## 🐍 Contribution Snake Game
-
+### 🐍 Contribution Snake Game
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/AHMADILYAS12/AHMADILYAS12/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-<sub>⚙️ Butuh setup GitHub Action agar snake ini bergerak — lihat instruksi di bawah 👇</sub>
-
+  <img src="https://raw.githubusercontent.com/AHMADILYAS12/AHMADILYAS12/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <br/>
+  <sub>⚙️ *Diperbarui otomatis via GitHub Actions setiap hari.*</sub>
 </div>
-
----
-
-## 🎮 Coba Tebak Bahasa Pemrograman Favorit Saya
-
-<details>
-<summary>👉 Klik untuk membuka mini-game tebakan!</summary>
-<br>
-
-**Petunjuk:**
-1. Dimulai dengan huruf **J**
-2. Sering dipakai untuk Frontend dan Backend sekaligus
-3. Bukan Java 😄
-
-<details>
-<summary>💡 Lihat Jawaban</summary>
-
-**JavaScript!** 🎉 Tepat seperti yang tertulis di tech stack saya di atas.
-
-</details>
-</details>
 
 ---
 
@@ -182,8 +126,14 @@ Features:
 
 <div align="center">
 
-<a href="https://github.com/AHMADILYAS12">
-  <img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/AHMADILYAS12" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/GANTI_DENGAN_LINKEDIN_KAMU" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:ahmadilyasm12@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -193,11 +143,10 @@ Features:
 <div align="center">
 
 ### 💬 Favorite Quote
-
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile! Don't forget to follow!**
 
 </div>

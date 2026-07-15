@@ -114,7 +114,6 @@
   <br/>
   <sub>⚙️ *Diperbarui otomatis via GitHub Actions setiap hari.*</sub>
 </div>
-
 ---
 
 ## 🌐 Connect With Me

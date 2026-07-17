@@ -24,7 +24,6 @@
 * 💬 Ask me about graphic design
 * ⚡ Passionate about building scalable applications
 * 🎯 Goal: Become a Software Engineer who builds impactful products
-* 💬 Ask me about **React, Node.js, Laravel, REST API**
 * 😄 Fun fact: I debug better with coffee ☕
 </p>
 

@@ -1,5 +1,4 @@
-<div align="center"> <!-- HEADER ANIMASI CUBIC (LEBIH KEREN & DINAMIS) -->
-  <img src="https://capsule-render.vercel.app/api?type=cubic&color=oceanic&height=220&section=header&text=Hi%20There,%20I'm%20Ahmad%20Ilyas%20Mutaal%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /> 
+<div align="center"> 
   <!-- TYPING ANIMATION UTAMA (WARNA LEBIH MENYALA) --> 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hello+Guyss;what+are+you+doing+here,+man?;to+become+a+fullstack+developer;Always+Learning+New+Things;I+debug+better+with+coffee;let's+relax+for+a+moment " alt="Typing SVG" /> 
   <!-- BADGES VISITOR & FOLLOWERS --> 
@@ -47,14 +46,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=AHMADILYAS12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AHMADILYAS12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMADILYAS12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -112,9 +104,6 @@
 
 ### 💬 Favorite Quote
 > *"First, solve the problem. Then, write the code."* — John Johnson
-
-<!-- FOOTER ANIMASI CUBIC (PENUTUP FUTURISTIK) -->
-<img src="https://capsule-render.vercel.app/api?type=cubic&color=teal&height=120&section=footer" width="100%" />
 
 ⭐ **Thanks for visiting my profile! Don't forget to follow!**
 

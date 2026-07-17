@@ -54,6 +54,7 @@
 ## 🏆 GitHub Activity
 
 <div align="center">
+  <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AHMADILYAS12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHMADILYAS12&theme=tokyo-night&area=true" alt="Activity Graph" />
 </div>
 

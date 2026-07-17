@@ -9,7 +9,6 @@
 <!-- BLOK KODE TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=800&color=22D3EE&center=false&vCenter=true&width=460&lines=const+developer+%3D+%7B;+++name%3A+%27Ahmad+Ilyas+Mutaal%27%2C;+++role%3A+%27Full+Stack+Developer%27%2C;+++stack%3A+%5B%27React%27%2C+%27Node.js%27%2C+%27Laravel%27%5D%2C;+++currentlyLearning%3A+%27AI+Integration%27;%7D%3B" alt="about me typing" />
 
-* 🔭 Currently working on **Full Stack Web Applications**
 * 🌱 Learning **AI Integration, System Architecture, and Cloud Technologies**
 * 💡 Interested in **Artificial Intelligence, Backend Development, and Modern Web Technologies**
 * ⚡ Passionate about building scalable applications
@@ -27,31 +26,10 @@
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,js" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma,supabase" /> |
-| **Tools & Devops** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm,docker" /> |
-| **Exploring** | <img src="https://skillicons.dev/icons?i=tensorflow,linux" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,laravel,php" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql" /> |
+| **Tools & Devops** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm" /> |
 
-> **Specialties & Focus:** AI • Ollama • LLM Integration • REST API • JWT Authentication
-
----
-
-## 📌 Featured Projects
-
-### 🌴 Palm Oil Distribution Information System
-> A web-based information system built with Full Stack JavaScript.
-* **Core Features:** Dashboard Monitoring, Distribution Management, Stock Prediction using AI, Activity Logging, and JWT Auth.
-* **Tech Stack:** `React` `Node.js` `Express` `Prisma` `MySQL` `JWT`
-
-### 🏫 PAUD Information System
-> Complete school administration system.
-* **Core Features:** Student Management, Parent Portal, Attendance Tracking, Registration, Payment Management, and Admin Dashboard.
-* **Tech Stack:** `Laravel` `MySQL` `TailwindCSS`
-
-### 🤖 AI Chatbot Integration
-> Intelligent Assistant powered by local environment.
-* **Core Features:** Ollama Integration, Local LLM Implementation, Knowledge-based Responses, and REST API endpoints.
-* **Tech Stack:** `Node.js` `Ollama` `REST API`
 
 ---
 
@@ -106,13 +84,15 @@
 <a href="https://github.com/AHMADILYAS12" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://linkedin.com/in/GANTI_DENGAN_LINKEDIN_KAMU" target="_blank">
+<a href="https://linkedin.com/in/ahmad-ilyas-a0688b3a5" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:email_kamu@gmail.com" target="_blank">
+<a href="mailto:ahmadilyasm12@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
+<a href="https://www.instagram.com/iyasmtl_" target="_blank">
+   <img src="https://img.shields.io/badge/Instagram-00BFFF?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+</a> 
 </div>
 
 ---

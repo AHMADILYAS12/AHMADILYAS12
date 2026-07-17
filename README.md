@@ -1,7 +1,7 @@
 <div align="center"> <!-- HEADER ANIMASI CUBIC (LEBIH KEREN & DINAMIS) -->
   <img src="https://capsule-render.vercel.app/api?type=cubic&color=oceanic&height=220&section=header&text=Hi%20There,%20I'm%20Ahmad%20Ilyas%20Mutaal%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /> 
   <!-- TYPING ANIMATION UTAMA (WARNA LEBIH MENYALA) --> 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Ahmad+Ilyas+Mutaal;React+%7C+Node.js+%7C+Express;Frontend+Developer;AI+Integration+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hello+Guyss;what+are+you+doing+here,+man?;to+become+a+fullstack+developer;Always+Learning+New+Things;I+debug+better+with+coffee;let's+relax+for+a+moment " alt="Typing SVG" /> 
   <!-- BADGES VISITOR & FOLLOWERS --> 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=AHMADILYAS12&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="profile views" /> 
@@ -16,14 +16,14 @@
 <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B4cnE1dXF5c3Z4czB5N212cHd4am1tc29tcTY4enBvMTV5cXJ4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZvikpQOf9mWdL89mjZ/giphy.gif" alt="coding animation"/>
 
 <!-- BLOK KODE TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=800&color=22D3EE&center=false&vCenter=true&width=460&lines=const+developer+%3D+%7B;+++name%3A+%27Ahmad+Ilyas+Mutaal%27%2C;+++role%3A+%27Full+Stack+Developer%27%2C;+++stack%3A+%5B%27React%27%2C+%27Node.js%27%2C+%27Laravel%27%5D%2C;+++currentlyLearning%3A+%27AI+Integration%27;%7D%3B" alt="about me typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=800&color=22D3EE&center=false&vCenter=true&width=460&lines=const+developer+%3D+%7B;+++Im%3A+%27Ahmad+Ilyas+Mutaal%27%2C;+++Student%3A+%27Full+Stack+Developer%27%2C;+++stack%3A+%5B%27React%27%2C+%27Node.js%27%2C+%27Vite%27%5D%2C;+++currentlyLearning%3A+%27Graphic+Design%27;%7D%3B" alt="about me typing" />
 
 * 👨‍🎓 I'm a student who is currently studying informatics engineering
 * 🌱 I’m currently learning C++, python and java programming language
-* 🤝 I’m looking for help with creating a simple website with HTML,CSS or Bootstrap
+* 🤝 I’m looking for help with creating a simple website with HTML,CSS,Bootstrap, or ReactVite and TailwindCss
 * 💬 Ask me about graphic design
 * ⚡ Passionate about building scalable applications
-* 🎯 Goal: Become a Software Engineer who builds impactful products
+* 🎯 Goal: Become a Fullstak Developer who builds impactful products
 * 😄 Fun fact: I debug better with coffee ☕
 </p>
 

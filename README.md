@@ -18,8 +18,10 @@
 <!-- BLOK KODE TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=800&color=22D3EE&center=false&vCenter=true&width=460&lines=const+developer+%3D+%7B;+++name%3A+%27Ahmad+Ilyas+Mutaal%27%2C;+++role%3A+%27Full+Stack+Developer%27%2C;+++stack%3A+%5B%27React%27%2C+%27Node.js%27%2C+%27Laravel%27%5D%2C;+++currentlyLearning%3A+%27AI+Integration%27;%7D%3B" alt="about me typing" />
 
-* 🌱 Learning **AI Integration, System Architecture, and Cloud Technologies**
-* 💡 Interested in **Artificial Intelligence, Backend Development, and Modern Web Technologies**
+* 👨‍🎓 I'm a student who is currently studying informatics engineering
+* 🌱 I’m currently learning C++, python and java programming language
+* 🤝 I’m looking for help with creating a simple website with HTML,CSS or Bootstrap
+* 💬 Ask me about graphic design
 * ⚡ Passionate about building scalable applications
 * 🎯 Goal: Become a Software Engineer who builds impactful products
 * 💬 Ask me about **React, Node.js, Laravel, REST API**
@@ -34,6 +36,7 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
+| **Lenguage** | <img src="https://skillicons.dev/icons?i=python,cpp,php,java,js" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,js" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,laravel,php" /> |
 | **Database** | <img src="https://skillicons.dev/icons?i=mysql" /> |

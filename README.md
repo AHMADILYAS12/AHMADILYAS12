@@ -1,4 +1,13 @@
-<div align="center"> <!-- HEADER ANIMASI CUBIC (LEBIH KEREN & DINAMIS) --> <img src="https://capsule-render.vercel.app/api?type=cubic&color=oceanic&height=220&section=header&text=Hi%20There,%20I'm%20Ahmad%20Ilyas%20Mutaal%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /> <!-- TYPING ANIMATION UTAMA (WARNA LEBIH MENYALA) --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Ahmad+Ilyas+Mutaal;React+%7C+Node.js+%7C+Express;Frontend+Developer;AI+Integration+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /> <!-- BADGES VISITOR & FOLLOWERS --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=AHMADILYAS12&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="profile views" /> <img src="https://img.shields.io/github/followers/AHMADILYAS12?label=Followers&style=for-the-badge&color=3B82F6" alt="followers" /> </p> </div>
+<div align="center"> <!-- HEADER ANIMASI CUBIC (LEBIH KEREN & DINAMIS) -->
+  <img src="https://capsule-render.vercel.app/api?type=cubic&color=oceanic&height=220&section=header&text=Hi%20There,%20I'm%20Ahmad%20Ilyas%20Mutaal%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /> 
+  <!-- TYPING ANIMATION UTAMA (WARNA LEBIH MENYALA) --> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Ahmad+Ilyas+Mutaal;React+%7C+Node.js+%7C+Express;Frontend+Developer;AI+Integration+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /> 
+  <!-- BADGES VISITOR & FOLLOWERS --> 
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=AHMADILYAS12&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="profile views" /> 
+<img src="https://img.shields.io/github/followers/AHMADILYAS12?label=Followers&style=for-the-badge&color=3B82F6" alt="followers" /> 
+</p> 
+</div>
 
 ## 🚀 About Me
 
@@ -36,25 +45,19 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AHMADILYAS12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=AHMADILYAS12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AHMADILYAS12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMADILYAS12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMADILYAS12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophy & Activity
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AHMADILYAS12&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</div>
-
-<br/>
+## 🏆 GitHub Activity
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHMADILYAS12&theme=tokyo-night&area=true" alt="Activity Graph" />
